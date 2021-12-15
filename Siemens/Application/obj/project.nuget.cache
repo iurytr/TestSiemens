@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+SWuV4Wsbk7wKjtLxdavpc/XjIPiv3VZKmPgf0zng1g59pePReJOubvd/jF4Ekmo/v5gNMA8TdnmI2GQr25Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charly\\Documents\\test\\Siemens\\Siemens\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charly\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
